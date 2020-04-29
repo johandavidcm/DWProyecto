@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="STProyecto Azure"
+  DTS:DTSID="{66B19829-F3B9-4167-9388-39C1A532B5ED}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=johandavidcm.database.windows.net;User ID=johan;Initial Catalog=STPROYECTO;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlQojNwZYaUqQIfiXIRqhQgAAAAACAAAAAAAQZgAAAAEAACAAAAAcB464PMVokR3yEPmH5oSDCbiq23WRPpjPoXbfF5k47QAAAAAOgAAAAAIAACAAAAAeDGLgHHiIZ8iSe/tgoSHfIAbmy6OQ0aU9KxOTi+CLqYAAAACYyonp8u8iT2TnnQgL2PPX0B/PIZPGZC16PjuYDXBCRduhkMJ8fNm7sgqjqfdjjtTrjeYX/74kAWITgRgIxIz7kro/3ckCbBgedxoWQ1vCzgYjPPtNcHZa5Slm0whFmmyzoRfuj6etq27hzlTk7lU8kOOOijCEtGqI8aD/CnpC20AAAADQLOMC0KRaBVF/Q2UB7tulY9UzorHD+Bdv+d+w5k4A88I1HXTL5DikNZj3uT4G7+4dfkBRRHzdjUhCVEVlS4iM</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
